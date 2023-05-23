@@ -10,5 +10,4 @@ public class HelloController {
 	//return "this is Spring Boot sample.";
 	return "index";
 	}
-
 }
